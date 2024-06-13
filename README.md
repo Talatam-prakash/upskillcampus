@@ -8,6 +8,7 @@
 6. Train the YOLOv8 model using data.yaml and training data.
 7. Test the model using test and validation data.
 8. Predict the test images with bounding boxes and class names.
+   
 Note:
 1. All implementation is done in Google Colab. I use session storage for data location. 
 2. A 'runs' directory is created when the YOLO model is performing.
